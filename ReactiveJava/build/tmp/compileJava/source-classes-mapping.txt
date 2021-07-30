@@ -1,9 +1,19 @@
 ObservableCreateExample.java
  ObservableCreateExample
  ObservableCreateExample$1
+ObservableFromIterableSet.java
+ ObservableFromIterableSet
+ObservableFromIterable.java
+ ObservableFromIterable
 ObservableFromArray.java
  ObservableFromArray
 FirstExample.java
  FirstExample
 ObservableNotifications.java
  ObservableNotifications
+common/Order.java
+ common.Order
+ObservableFromIterableBlockingQueue.java
+ ObservableFromIterableBlockingQueue
+ObservableFromCallable_basic.java
+ ObservableFromCallable_basic
